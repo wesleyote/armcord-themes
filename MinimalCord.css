@@ -47,9 +47,9 @@ html.theme-light .force-theme.theme-light {
 .theme-dark,
 html.theme-dark #app-mount .theme-light .root-1gCeng,
 html.theme-dark .force-theme.theme-light {
-  --dark-bg-h: var(--dark-bg-hue, 218);
-  --dark-bg-s: var(--dark-bg-saturation, 15%);
-  --dark-bg-l: var(--dark-bg-lightness, 11%);
+  --dark-bg-h: var(--dark-bg-hue, 210);
+  --dark-bg-s: var(--dark-bg-saturation, 9%);
+  --dark-bg-l: var(--dark-bg-lightness, 21%);
   --background-light: hsl(var(--dark-bg-h) var(--dark-bg-s) calc(var(--dark-bg-l) + 5%));
   --background-light-alt: hsl(var(--dark-bg-h) var(--dark-bg-s) calc(var(--dark-bg-l) + 3.5%));
   --background: hsl(var(--dark-bg-h) var(--dark-bg-s) var(--dark-bg-l));
