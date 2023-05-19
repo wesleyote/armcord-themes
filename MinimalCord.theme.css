@@ -27,9 +27,9 @@
   /*
    * Dark Mode variables
    */
-  --dark-bg-hue: 218; /* The HUE of the background. | DEFAULT: 218 */
-  --dark-bg-saturation: 15%; /* The SATURATION of the background. | DEFAULT: 15% */
-  --dark-bg-lightness: 11%; /* The LIGHTNESS of the background | DEFAULT: 11% */
+  --dark-bg-hue: 210; /* The HUE of the background. | DEFAULT: 218 */
+  --dark-bg-saturation: 9%; /* The SATURATION of the background. | DEFAULT: 15% */
+  --dark-bg-lightness: 21%; /* The LIGHTNESS of the background | DEFAULT: 11% */
   /*
    * Light Mode variables
    */
